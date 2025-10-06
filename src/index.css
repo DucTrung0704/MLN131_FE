@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #f0f2f5;
+}
+
+.layout {
+  background: #f0f2f5;
+}
+
+.ant-layout-content {
+  transition: all 0.3s ease;
+}
