@@ -37,7 +37,7 @@ const Navbar = () => {
     return (
         <Header style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
             <div style={{ display: "flex", alignItems: "center", gap: "24px" }}>
-                <Link to="/" style={{ color: "#fff", fontSize: 20 }}>MLN131 Blog</Link>
+                <Link to="/" style={{ color: "#fff", fontSize: 20 }}>Knowledge Blog</Link>
                 <Button 
                     type="link" 
                     icon={<ReadOutlined />}

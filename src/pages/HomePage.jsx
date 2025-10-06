@@ -57,7 +57,7 @@ const HomePage = () => {
                 {/* Content Overlay */}
                 <div className="hero-content">
                     <Title level={1}>
-                        Welcome to MLN131 Blog. A Platform where you can share your knowledge.
+                        Welcome to Knowledge Blog. A Platform where you can share your knowledge.
                     </Title>
                     <Button type="primary" size="large" ghost onClick={() => navigate('/blog')}>
                         Explore Blogs
